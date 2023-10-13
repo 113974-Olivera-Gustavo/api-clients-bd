@@ -129,16 +129,15 @@
   "categoriaFiscal": [
     {
       "id_monotributo": 1,
+      "descripcion":"Monotributista",
       "id_clasificacion": 1
     },
     {
       "id_monotributo": 2,
-      "id_clasificacion": 2
+      "descripcion":"RI",
+      "id_clasificacion": null
     },
-    {
-      "id_monotributo": 3,
-      "id_clasificacion": 3
-    }
+    
   ],
   "clasificacion": [
     {
@@ -184,10 +183,6 @@
     {
       "id": 11,
       "descripcion": "K"
-    },
-    {
-      "id": 12,
-      "descripcion": "Responsable Inscripto"
     }
   ]
 }
