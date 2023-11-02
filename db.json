@@ -28,7 +28,7 @@
       "apellido": "Nievas",
       "email": "juan.nievas@gmail.com",
       "telefono": "987654321",
-      "domicilio": "ACM1PT",
+      "domicilio": "Deher Canmosa 123",
       "id_tipo_doc": {
         "id_tipo_doc": 2,
         "tipo_documento": "CUIL/CUIT"
@@ -54,7 +54,7 @@
       "apellido": "Pérez",
       "email": "laura.perez@gmail.com",
       "telefono": "876543210",
-      "domicilio": "Calle Principal 789",
+      "domicilio": "Agustin sabatini 456",
       "id_tipo_doc": {
         "id_tipo_doc": 1,
         "tipo_documento": "DNI"
@@ -76,7 +76,7 @@
       "apellido": "López",
       "email": "pedro.lopez@gmail.com",
       "telefono": "765432109",
-      "domicilio": "Avenida Secundaria 567",
+      "domicilio": "Avenida Milei 887",
       "id_tipo_doc": {
         "id_tipo_doc": 2,
         "tipo_documento": "CUIL/CUIT"
